@@ -27,7 +27,7 @@
 
 ---
 ### О репозитиории 
-#### В директории [data_files](data_files) лежат треубемые для тестов [Локаторы](data_files/locators.py), [Тестовые данные user-a](data_files/data_info.py) ,[urls](data_files/site_urls.py).
+#### В директории [data_files](data_files) лежат треубемые для тестов [Локаторы](locators/locators.py), [Тестовые данные user-a](data_files/data_info.py) ,[urls](data_files/site_urls.py).
 
 #### В директории [pageses](pageses) лежат страницы [Общие(base)](pageses/base_page.py), [для "Домашней страницы"](pageses/home_page.py), [для "Страницы заказа самоката"](pageses/order_page.py)
 

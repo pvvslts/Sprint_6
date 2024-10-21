@@ -1,8 +1,8 @@
 import allure
 from pageses.base_page import BasePage
-from data_files.locators import MainPagelocator
+from locators.locators import MainPagelocator
 from selenium.webdriver.support.wait import WebDriverWait
-from data_files.locators import YandexSamokatBasePageLocator as Lts
+from locators.locators import YandexSamokatBasePageLocator as Lts
 from selenium.webdriver.support import expected_conditions as EC
 
 

@@ -2,7 +2,7 @@ import pytest
 import allure
 from pageses.home_page import YandexSamokatBasePage
 from data_files.data_info import YandexSamokatHomePageFAQ
-from data_files.locators import YandexSamokatBasePageLocator
+from locators.locators import YandexSamokatBasePageLocator
 
 
 @allure.epic('ui')

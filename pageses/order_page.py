@@ -1,7 +1,7 @@
 import re
 
 from pageses.base_page import BasePage
-from data_files.locators import YandexSamokatOrderPageLocator as Lts
+from locators.locators import YandexSamokatOrderPageLocator as Lts
 import allure
 
 

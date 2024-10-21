@@ -3,7 +3,7 @@ import allure
 from data_files.site_urls import Urls
 from pageses.home_page import YandexSamokatBasePage
 from pageses.order_page import YandexSamokatOrderPage
-from data_files.locators import YandexSamokatOrderPageLocator
+from locators.locators import YandexSamokatOrderPageLocator
 from data_files.data_info import YandexSamokatOrderPageData as data_configure
 
 
