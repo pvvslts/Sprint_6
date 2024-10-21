@@ -42,7 +42,7 @@ pip install -r requirements.txt
 ```
 Запустить все тесты из директории ptests
 ```
-pytest.exe tests --alluredir=allure_results
+pytest.exe ptests --alluredir=allure_results
 ```
 Посмотреть отчет в веб версии пройденного прогона
 ```
